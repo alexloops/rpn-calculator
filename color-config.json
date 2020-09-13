@@ -1,0 +1,18 @@
+{
+  "dark-mode": {
+    "darkest": "#",
+    "darker": "#",
+    "dark": "#",
+    "light": "#",
+    "font1": "#",
+    "font2": "#"
+  },
+  "light-mode": {
+    "darkest": "#",
+    "darker": "#",
+    "dark": "#",
+    "light": "#",
+    "font1": "#",
+    "font2": "#"
+  }
+}
